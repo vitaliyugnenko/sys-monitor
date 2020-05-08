@@ -1,0 +1,16 @@
+{
+  "name": "sys-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "os-utils": "0.0.14",
+    "websocket": "^1.0.31",
+    "express": "^4.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
